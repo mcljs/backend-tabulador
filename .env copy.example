@@ -1,0 +1,6 @@
+NODE_ENV=development
+PORT=3090
+CORS=*
+MONGO_CONNECTION=mongodb://galaxy:YhViMWeTPm6eTG@mongo.caprover.snotrasys.com/galaxy
+
+
